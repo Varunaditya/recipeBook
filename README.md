@@ -1,5 +1,6 @@
 # Recipe Book
-Link: https://therecipebook.azurewebsites.net/ \n
+Link: https://therecipebook.azurewebsites.net/
+
 An Angular web application that provides recipes to the users and the option 
 to add the ingredients to a shopping list. The application allows adding new recipes, 
 editing existing ingredients and the shopping list.
